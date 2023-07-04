@@ -61,6 +61,8 @@ public class MyApplication {
         myLaptop.setSize(13);
         myLaptop.setPrice(6000);
         myLaptop.printAllDetails();
+        myLaptop.printAllDetails();
+
 
     }
 
